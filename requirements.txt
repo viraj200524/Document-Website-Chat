@@ -1,0 +1,10 @@
+streamlit
+plotly
+os
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+pypdf
