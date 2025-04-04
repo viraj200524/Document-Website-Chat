@@ -4,7 +4,7 @@ import os
 from rag_backend import RAGBackend  # Assumes RAGBackend is in rag_backend.py
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(dotenv_path=".env")
 
 # Initialize RAGBackend in session state
 if 'rag_backend' not in st.session_state:
