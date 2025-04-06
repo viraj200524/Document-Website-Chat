@@ -1,6 +1,6 @@
 # 🧠 Document and Website Chat Application powered by RAG
 
-This project is a lightweight Retrieval-Augmented Generation (RAG) chat interface built with **Streamlit** for the frontend and **Python** for the backend. It integrates with the **Groq API** to provide intelligent responses to user queries.
+This project is a lightweight Retrieval-Augmented Generation (RAG) chat interface built with **Streamlit** for the frontend and **Python** for the backend. It integrates with the **Groq API** to provide intelligent responses to user queries and also extraction relevant Documents from the Knowledge Base.
 
 ---
 
